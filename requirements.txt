@@ -1,0 +1,9 @@
+ipython
+psutil
+sounddevice
+scipy
+redis
+tensorflow
+tensorflow-io
+cherrypy
+paho-mqtt
